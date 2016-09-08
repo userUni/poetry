@@ -1,2 +1,5 @@
 hello
 bad lines
+fine
+
+:wq
