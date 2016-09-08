@@ -1,4 +1,4 @@
 hello
 fine
 
-:wq
+escape :wq  - to escape out of vim
